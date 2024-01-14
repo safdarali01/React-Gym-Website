@@ -3,8 +3,8 @@ import logo from "../assets/logo.png";
 const Navbar = () => {
   return (
     <>
-      <nav className="navbar navbar-expand-lg bg-dark nav_main">
-        <div className="container">
+      <nav className="navbar navbar-expand-lg nav_main">
+        <div className="container align-items-end">
           <a className="logo" href="#">
             <img src={logo} alt="" className="img-fluid" />
           </a>

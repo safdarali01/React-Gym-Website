@@ -32,6 +32,10 @@ a{
     width: 15%;
 }
 
+.nav_main{
+    z-index: 1;
+}
+
 .nav_main a{
     color: var(--font-color);
     font-size: 1rem;
@@ -64,3 +68,21 @@ a{
     background-color: var(--bg-light);
 }
 /* Navbar end  */
+
+/* Hero start */
+
+.hero{
+    background-image: url(./assets/Home.jpg);
+    height: 650px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+    padding-top: 10rem;
+}
+
+.hero_col2 img{
+    width: 100%;
+}
+/* Hero end  */
