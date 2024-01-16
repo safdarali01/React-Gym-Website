@@ -140,3 +140,26 @@ a {
   margin: 0 0.4rem;
 }
 /* Hero end  */
+
+/* Fitness Goal start  */
+
+.trusted_partners{
+  background-color: var(--bg-dark);
+  color: #ffff;
+  padding: 1.4rem 0;
+}
+
+.trusted_partners_col1 h1{
+  font-weight: 700;
+  letter-spacing: 0.4px;
+  margin: 0;
+} 
+
+.trusted_partners_col1 p{
+  letter-spacing: 0.4px;
+  font-size: 1.5rem;
+  margin-bottom: -10 !important;
+}
+
+/* Fitness Goal end  */
+/* Hero end  */
