@@ -141,7 +141,7 @@ a {
 }
 /* Hero end  */
 
-/* Fitness Goal start  */
+/* Trusted Partnest start  */
 
 .trusted_partners{
   background-color: var(--bg-dark);
@@ -160,6 +160,32 @@ a {
   font-size: 1.5rem;
   margin-bottom: -10 !important;
 }
+/* Trusted Partnest end  */
 
+
+/* Fitness Goal Start  */
+
+.fitness_goal{
+  background-color: var(--bg-light);
+  color: #ffff;
+  padding: 5rem 0;
+}
+
+.fitness_goal_col1 img{
+ border-radius: 7%;
+}
+
+.fitness_goal_col2{
+  padding: 0rem 5rem 0rem 0;
+}
+
+.fitness_goal_col2 h1{
+  font-size: 2.8rem;
+  font-weight: 800;
+}
+
+.fitness_goal_col2 p{
+  padding: 0.2rem 0;
+  font-size: 1.15rem;
+}
 /* Fitness Goal end  */
-/* Hero end  */
