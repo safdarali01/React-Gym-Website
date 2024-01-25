@@ -5,7 +5,7 @@ function FitnessGoal() {
   return (
     <div className="container-fluid fitness_goal">
       <div className="container">
-        <div className="row gx-0 align-items-center">
+        <div className="row gx-0 align-items-center py-5">
           <div className="col-md-6">
             <div className="fitness_goal_col1">
               <img src={img} alt="" className="img-fluid px-3" />

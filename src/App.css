@@ -4,7 +4,7 @@
   --primary-color: #ff2332;
   --secondry-color: #ff662d;
   --bg-dark: #37383c;
-  --bg-light: #3a3b3f;
+  --bg-light: #3e3f41;
   --font-color: #ffff;
 }
 
@@ -189,3 +189,23 @@ a {
   font-size: 1.15rem;
 }
 /* Fitness Goal end  */
+
+
+/* Best Offers Start */
+
+.BestOffers{
+  background-color: var(--bg-dark);
+}
+
+h1{
+  font-size: 2.8rem;
+  font-weight: 800;
+  color: #ffff;
+}
+
+p{
+  padding: 0.2rem 0;
+  font-size: 1.15rem;
+  color: #ffff;
+}
+/* Best Offers end  */
